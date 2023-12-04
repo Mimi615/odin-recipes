@@ -1,0 +1,38 @@
+* {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    color:lightpink;
+    background-color: black;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    color:pink;
+    font-family: sans-serif, "Times New Roman";
+}
+
+p {
+    font-family: sans-serif, "Times New Roman";
+    font-size: 20px;
+}
+
+a {
+    color:black;
+    background-color: pink;
+}
+
+img {
+    width:500px;
+    height:auto;
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
